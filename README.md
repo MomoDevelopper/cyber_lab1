@@ -30,6 +30,10 @@ These passwords are insecure because:
 
 ## Part 2 : captures
 
+Due to file size limitations, the full Wireshark capture file is available here:
+
+https://drive.google.com/drive/folders/1AjW3tlO7qd7SZajkr7TEgV5mVM3Xb8ro?usp=drive_link
+
 
 ## Part 3: Packet Analysis
 
